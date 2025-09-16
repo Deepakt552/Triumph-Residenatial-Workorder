@@ -1,0 +1,1 @@
+import{j as s}from"./app-C7HmzJUd.js";function i({value:t,className:r="",children:o,...n}){return s.jsx("label",{...n,className:"block text-sm font-medium text-primary-800 mb-1 transition-colors duration-200 "+r,children:t||o})}export{i as I};

@@ -1,0 +1,1 @@
+import{j as a}from"./app-C7HmzJUd.js";function o({message:t,className:n="",...r}){return t?a.jsx("p",{...r,className:"text-sm text-accent-600 bg-accent-50 px-2 py-1 rounded-md animate-fadeIn transition-all duration-200 "+n,children:t}):null}export{o as I};
